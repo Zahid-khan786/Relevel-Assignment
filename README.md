@@ -1,5 +1,5 @@
 ## Relevel-Assignment 
-#Javascript 3 Questions <br><br>
+#Javascript Assignment Questions <br><br>
 Q1 Implement a map using the Inversion of Control principle that will perform operations on an array such as:<br>
 a. Squaring the elements <br>
 b. Dividing them by 5.<br>
