@@ -57,7 +57,7 @@ function printAll(arr) {
         upperCase(arr[i]);
     }
 }
-
+// IN case of new line we iterate at each and everyname just after taking Input
 printAll(["divya",
     "seetha",
     "shanmugi",
