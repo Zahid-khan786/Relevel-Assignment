@@ -1,5 +1,17 @@
 // Q1
+function choice(arr, ch) {
+    if (ch == 1)
+        return arr.map((a) => Math.pow(a, 2));
+    else if (ch == 2)
+        return arr.map((a) => (a / 5));
+    else
+        return arr.map((a) => Math.sqrt(a));
+}
 
+a = [1, 2, 3, 4, 5, 6, 7, 8];
+console.log(choice(a, 1));
+console.log(choice(a, 2));
+console.log(choice(a, 3));
 
 // Q2
 function* nextNatural() {
